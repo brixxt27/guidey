@@ -1,10 +1,11 @@
-<h1>안녕하십니까? 개발자 가이드윤입니다.
-관리 중인 사이트 알려드립니다.
+<h1>
+  안녕하십니까? 개발자 가이드윤입니다.<br>
+  관리 중인 사이트 알려드립니다.
   
-Web adress https://brixxt27.github.io/guidey/
+  Web adress https://brixxt27.github.io/guidey/
 
-Blog https://guidey.tistory.com/
-
+  Blog https://guidey.tistory.com/
+<h1>
 
 
 
