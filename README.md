@@ -1,3 +1,30 @@
+<h1>안녕하십니까? 개발자 가이드윤입니다.
+<h1>관리 중인 사이트 알려드립니다.
+  
+Web adress https://brixxt27.github.io/guidey/
+
+Blog https://guidey.tistory.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/brixxt27/guidey/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
