@@ -1,5 +1,5 @@
 <h1>
-  안녕하십니까? 개발자 가이드윤입니다.<br>
+  안녕하십니까? 가이드윤입니다.<br>
     
   HTML 연습용 Web adress https://brixxt27.github.io/guidey/
 
